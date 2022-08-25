@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizinfy
-- 👀 I’m interested in programming.
+- 👀 I’m interested in programming and computer online games.
 - 🌱 I’m currently learning .NET MAUI for mobile application development.
-- 💞️ I’m looking to collaborate on any web application development project.
+- 💞️ I’m looking to collaborate on any .NET web application development project.
 - 📫 How to reach me muhamad_faiz@outlook.com
 
 <!---
